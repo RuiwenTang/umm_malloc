@@ -48,7 +48,7 @@
 
 #define DBGLOG_LEVEL 0
 
-#define DBGLOG_DEBUG(fmt)
+#define DBGLOG_DEBUG(fmt, ...)
 
 extern void *UMM_MALLOC_CFG_HEAP_ADDR;
 extern uint32_t UMM_MALLOC_CFG_HEAP_SIZE;
