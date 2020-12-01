@@ -9,3 +9,5 @@
 
 # Unity Test Framework output directory
 build
+
+builddir
